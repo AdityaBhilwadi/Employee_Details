@@ -1,0 +1,276 @@
+/* .Aditya {
+    background-color: #37ac94;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  } */
+  
+  .close-btn {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff0001;
+    cursor: pointer;
+  }
+
+  .logo {
+    width: 120px;
+    height: 100px;
+    margin-right: 5px;
+    margin-top: 30px;
+    padding-left: 0px;
+    padding-right: 25px;
+  }
+ 
+  /* .custom-file-upload {
+   
+    height: 50px;
+    padding: 6px;
+    cursor: pointer;
+    background-color: rgb(48, 155, 48);
+    color: white;
+    font-size: small;
+   
+    padding-right: 20px;
+    text-align: center;
+  } */
+  
+  /* .flex-container {
+    display: flex;
+    align-items: center;
+    
+  }
+   */
+  /* .content {
+    height: 100px;
+    width: 200px;
+    
+  } */
+  
+::ng-deep .p-fileupload-choose {
+      height: 30px;
+      background-color: #6baa44 !important;
+      border-color: #6baa44 !important;
+      color: white
+
+}
+
+/* .p-button[label="+"] {
+  background-color: #6baa44 t;
+  border-color: #6baa44 ;
+} */
+    
+  ::ng-deep .p-dropdown {
+    height: 35px;
+    width: 250px;
+    border-end-end-radius: 0px;
+ 
+  }
+  
+  ::ng-deep .p-dropdown .p-dropdown-trigger {
+    background: #37ac94;
+    height: 33px;
+    width: 2rem;
+    color: #ffffff;
+    border-end-end-radius: 0px;
+  }
+  
+  .FirstName {
+    height: 300px;
+    width: 250px;
+    
+  }
+  
+  .box {
+    width: 250px;
+    height: 35px;
+  }
+  
+  .MiddleName {
+    height: 100px;
+    width: 300px;
+   
+  }
+  
+  .box1 {
+    width: 250px;
+    height: 35px;
+  }
+  
+  .LastName {
+    height: 100px;
+    width: 300px;
+   
+  }
+  
+  .box2 {
+    width: 250px;
+    height: 35px;
+  }
+  
+  <!-----------------Second Row ---------------------->
+  /* .content1 {
+    height: 40px;
+    width: 200px;
+ 
+    margin-top: -90px;
+  } */
+  
+  /* .BOD {
+    
+    
+    height: 100px;
+    width: 790px;
+    padding-left: 480px;
+    margin-top: -55px;
+  }
+  
+  .BOD1 {
+    height: 35px;
+    width: 250px;
+  }
+  
+  .country {
+    height: 100px;
+    width: 10px;
+    padding-left: 770px;
+    margin-top: -100px;
+  }
+  
+  .nomobile {
+    width: 120px;
+    font-size: 15px;
+  }
+  
+  .MobileNumber {
+    height: 50px;
+    width: 100px;
+    padding-left: 859px;
+    margin-top: -78px;
+  }
+  
+  .EmployeeID {
+    height: 100px;
+    width: 250px;
+    padding-left: 1145px;
+    margin-top: -70px;
+  }
+  
+  .box3 {
+    height: 32px;
+  } */
+
+  
+  
+  -----------------Third Row ---------------------->
+  /* .EmailID {
+    margin-top: -20px;
+  }
+  
+  .Designation {
+    height: 100px;
+    width: 250px;
+    padding-left: 280px;
+    margin-top: -56px;
+  }
+  
+  .Button {
+  
+    padding-left: 260px;
+    margin-top: -35px;
+  }
+  
+  .EmployeeGroup {
+    padding-left: 600px;
+    margin-top: -100px;
+  }
+  
+  .Button1 {
+    padding-left: 260px;
+    margin-top: -35px;
+  }
+  
+  .ReportingManager {
+    padding-left: 920px;
+    margin-top: -54px;
+  } */
+  
+  -----------------Forth Row ---------------------->
+  
+  /* .EmployeeDepartment {
+    margin-top: 10px;
+  }
+  
+  .Employeestatus {
+    padding-left: 280px;
+    margin-top: -54px;
+  }
+  
+  .Calander {
+    display: flex;
+    flex-direction: column;
+    padding-left: 550px;
+    margin-top: -55px;
+  }
+  
+  .iscorporate {
+    padding-left: 210px;
+    margin-top: -30px;
+  }
+  
+  .Reportingsite {
+    padding-left: 925px;
+    margin-top: -40px;
+  } */
+  
+  /* -----------------Fifth Row ---------------------->
+  
+  .CreateUser {
+    margin-top: 20px;
+  } */
+  
+  /* <!-----------------Fifth Row ---------------------->
+  
+  .PA {
+    font-size: 12px;
+  } */
+  
+  /* <!-----------------Seventh Row ---------------------->
+  
+  .Country {
+    flex-direction: column;
+    margin-top: -20px;
+    width: 100px;
+  } */
+  
+  /* .State {
+    margin-top: -52px;
+    width: 100px;
+    padding-left: 330px;
+  }
+  
+  .City {
+    margin-top: -55px;
+    width: 100px;
+    padding-left: 650px;
+  }
+  
+  .Zipcode {
+    margin-top: -55px;
+    width: 100px;
+    padding-left: 980px;
+  } */
+  
+-----------------Eight Row ---------------------->
+  
+  /* .Address1 {
+    padding-left: 100px;
+  } */
+  
+  
+   .clear {
+    display: flex;
+    padding-left: 1000px;
+  }
