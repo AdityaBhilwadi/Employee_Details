@@ -1,6 +1,6 @@
 # Employee_Details
 
-Frondend:
+Frontend:
 Angular and UI with primeng and primeflex.
 
 Backend:
