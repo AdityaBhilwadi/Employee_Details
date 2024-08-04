@@ -1,4 +1,4 @@
-# Employee_Details
+# Employee_Details_Management
 
 Frontend:
 Angular and UI with primeng and primeflex.
